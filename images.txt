@@ -1,5 +1,10 @@
 #支持私库 dsm库
 vdsm/virtual-dsm:7.15
 mysql:5.7.44
+redis:6.2.14
+rabbitmq:3.13.3
+rabbitmq:3.13.3-management
+altran1502/immich-server:v1.106.4
+
 #支持指定架构
 --platform=linux/arm64
