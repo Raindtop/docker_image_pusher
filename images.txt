@@ -19,6 +19,8 @@ vdsm/virtual-dsm:7.15
 # 照片管理工具 immich 
 altran1502/immich-server:v1.106.4
 
+# 照片同步工具
+linuxserver/resilio-sync:2.8.1
 
 
 #支持指定架构
