@@ -22,6 +22,9 @@ altran1502/immich-server:v1.106.4
 # 照片同步工具
 linuxserver/resilio-sync:2.8.1
 
+# BT种子下载器
+p3terx/aria2-pro:202209060423
+
 
 #支持指定架构
 --platform=linux/arm64
