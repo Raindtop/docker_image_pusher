@@ -25,3 +25,6 @@ linuxserver/resilio-sync:2.8.1
 # BT种子下载器
 p3terx/aria2-pro:202209060423
 p3terx/ariang:latest
+
+# wordpress
+wordpress:php8.3-fpm-alpine
