@@ -11,6 +11,7 @@ rabbitmq:3.13.3-management
 gitea/gitea:1.22.0
 # 流水线
 jenkinsci/blueocean:1.25.7
+jenkins:2.60.3
 
 # 应用服务
 # NAS dsm库
