@@ -12,6 +12,7 @@ gitea/gitea:1.22.0
 # 流水线
 jenkinsci/blueocean:1.25.7
 jenkins:2.60.3
+jenkins/jenkins:2.478
 
 # 应用服务
 # NAS dsm库
