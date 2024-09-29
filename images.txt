@@ -1,32 +1,32 @@
 # 开发服务
 # mysql
-mysql:5.7.44
-mysql:8.4.0
+# mysql:5.7.44
+# mysql:8.4.0
 # redis
-redis:6.2.14
+# redis:6.2.14
 # rabbitmq
-rabbitmq:3.13.3
-rabbitmq:3.13.3-management
+# rabbitmq:3.13.3
+# rabbitmq:3.13.3-management
 # gitea 版本管理
-gitea/gitea:1.22.0
+#gitea/gitea:1.22.0
 # 流水线
-jenkinsci/blueocean:1.25.7
-jenkins:2.60.3
-jenkins/jenkins:2.478
+# jenkinsci/blueocean:1.25.7
+# jenkins:2.60.3
+jenkins:2.478
 
 # 应用服务
 # NAS dsm库
-vdsm/virtual-dsm:7.15
+# vdsm/virtual-dsm:7.15
 
 # 照片管理工具 immich 
-altran1502/immich-server:v1.106.4
+# altran1502/immich-server:v1.106.4
 
 # 照片同步工具
-linuxserver/resilio-sync:2.8.1
+# linuxserver/resilio-sync:2.8.1
 
 # BT种子下载器
-p3terx/aria2-pro:202209060423
-p3terx/ariang:latest
+# p3terx/aria2-pro:202209060423
+# p3terx/ariang:latest
 
 # wordpress
-wordpress:php8.3-fpm-alpine
+# wordpress:php8.3-fpm-alpine
