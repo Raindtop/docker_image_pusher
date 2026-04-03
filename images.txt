@@ -30,3 +30,6 @@ jenkins/jenkins:2.478
 
 # wordpress
 # wordpress:php8.3-fpm-alpine
+
+# polardbx
+polardbx/polardb-x:v2.4.2_5.4.19
